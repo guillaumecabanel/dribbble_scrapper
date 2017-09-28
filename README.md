@@ -5,7 +5,7 @@ Example with [Dribbble](https://dribbble.com) on how to use scrapping to get res
 ## Usage
 1. Clone
 ```
-git clone
+git clone git@github.com:guillaumecabanel/dribbble_scrapper.git
 ```
 
 2. Launch server
@@ -13,4 +13,4 @@ git clone
 sinatra
 ```
 
-3. Visit [localhost:4567](localhost:4567)
+3. Visit [localhost:4567]
