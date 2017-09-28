@@ -13,4 +13,4 @@ git clone git@github.com:guillaumecabanel/dribbble_scrapper.git
 sinatra
 ```
 
-3. Visit [localhost:4567]
+3. Visit http://localhost:4567
